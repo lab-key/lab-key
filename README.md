@@ -1,5 +1,10 @@
 # ⚡ `Fun Fact`
 
+
+![wolfsheep](https://github.com/user-attachments/assets/1b603b4f-f2f1-48e5-b5ac-18a303a7b1f0)
+
+
+
 <!--
 **lab-key/lab-key** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
